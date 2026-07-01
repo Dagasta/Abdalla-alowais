@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 160" width="100%" height="100%" class="bm-logo-creative">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&amp;family=Montserrat:wght@400;500;600&amp;family=Cairo:wght@600;700&amp;display=swap');
+      
+      .brand-crest-bg {
+        fill: none;
+        stroke: #C5A880; /* Gold */
+        stroke-width: 2.5;
+        stroke-linecap: round;
+      }
+      .brand-crest-accent {
+        fill: none;
+        stroke: #0B2240; /* Navy */
+        stroke-width: 3.5;
+        stroke-linecap: round;
+      }
+      .text-title-en {
+        font-family: 'Cinzel', serif;
+        font-weight: 700;
+        fill: #0B2240;
+        font-size: 32px;
+        letter-spacing: 2px;
+      }
+      .text-title-en-gold {
+        fill: #C5A880;
+      }
+      .text-title-ar {
+        font-family: 'Cairo', sans-serif;
+        font-weight: 700;
+        fill: #0B2240;
+        font-size: 26px;
+        direction: rtl;
+      }
+      .text-tagline {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+        font-size: 11px;
+        letter-spacing: 5px;
+        fill: #555555;
+      }
+      .text-license {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        font-size: 9px;
+        letter-spacing: 2px;
+        fill: #888888;
+      }
+      .vertical-divider {
+        stroke: #C5A880;
+        stroke-width: 1.5;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+
+  <!-- CREATIVE MONOGRAM ICON (Left Side) -->
+  <g transform="translate(10, 0)">
+    <!-- Elegant outer gold crescent / circle -->
+    <path d="M 90,30 A 50,50 0 1,0 90,130" class="brand-crest-bg" />
+    <path d="M 90,130 A 50,50 0 0,0 120,45" class="brand-crest-bg" stroke-dasharray="160 20" />
+    
+    <!-- Stylized Arabic-English Monogram (Merging B, M, and Arabic curves) -->
+    <!-- The Navy Blue Loop (forming 'B' and Arabic 'ب' swoops) -->
+    <path d="M 60,110 L 60,50 C 60,50 85,45 85,65 C 85,80 65,75 85,90 C 100,100 80,115 65,115" class="brand-crest-accent" />
+    <circle cx="75" cy="122" r="3.5" fill="#0B2240" /> <!-- Dot for Arabic 'B' (ب) -->
+
+    <!-- The Gold Loop (forming 'M', Arabic 'م', and falcon wing) -->
+    <path d="M 85,95 C 95,95 102,80 102,68 C 102,50 82,50 82,65 C 82,75 95,90 115,105 C 122,110 130,100 135,90" fill="none" stroke="#C5A880" stroke-width="3" stroke-linecap="round" />
+    <circle cx="102" cy="60" r="3" fill="#C5A880" /> <!-- Accent dot -->
+  </g>
+
+  <!-- Vertical Divider -->
+  <line x1="165" y1="30" x2="165" y2="130" class="vertical-divider" />
+
+  <!-- BILINGUAL BRAND NAMES & TAGLINE (Right Side) -->
+  <!-- English Title -->
+  <text x="185" y="60" class="text-title-en">B<tspan class="text-title-en-gold">&amp;</tspan>M <tspan font-size="24" font-weight="600">BRAND &amp; MORE</tspan></text>
+  
+  <!-- Arabic Title -->
+  <text x="185" y="100" class="text-title-ar">براند آند مور لتخليص المعاملات</text>
+  
+  <!-- Tagline: TRANSACTION FOLLOWING -->
+  <text x="185" y="125" class="text-tagline">TRANSACTION FOLLOWING</text>
+  
+  <!-- Subtle License Tag -->
+  <text x="185" y="142" class="text-license">LIC. CN-3734050</text>
+</svg>

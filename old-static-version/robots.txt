@@ -1,0 +1,8 @@
+# Robots.txt for B&M Brand & More
+# User-Agent: All Search Engines
+
+User-agent: *
+Allow: /
+
+# Sitemap Linkage for automated crawling
+Sitemap: https://brandandmore.ae/sitemap.xml

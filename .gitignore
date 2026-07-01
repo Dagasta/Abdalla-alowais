@@ -1,0 +1,5 @@
+# B&M Website — Project Structure
+node_modules
+.next
+.env.local
+*.log

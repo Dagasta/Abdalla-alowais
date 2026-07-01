@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "blog": "Insights",
+    "vip": "VIP Services",
+    "callNow": "Call Now",
+    "whatsapp": "WhatsApp"
+  },
+  "hero": {
+    "badge": "Official License CN-3734050",
+    "title1": "Your Trusted Partner for",
+    "title2": "Government Transactions",
+    "subtitle": "B&M Brand & More delivers fast, compliant, and professional administrative clearance services across the UAE and Saudi Arabia — from visa extraction to traffic court clearance.",
+    "cta1": "Get Free Consultation",
+    "cta2": "Call Now",
+    "cta3": "WhatsApp Us",
+    "stat1Value": "5000+",
+    "stat1Label": "Transactions Cleared",
+    "stat2Value": "100%",
+    "stat2Label": "Legal Compliance",
+    "stat3Value": "24/7",
+    "stat3Label": "VIP Support",
+    "stat4Value": "2",
+    "stat4Label": "UAE Emirates Covered"
+  },
+  "services": {
+    "heading": "Our Government & Business Services",
+    "subheading": "End-to-end administrative support for individuals and corporations across the UAE and Saudi Arabia.",
+    "items": [
+      {
+        "slug": "uae-visa-extraction",
+        "icon": "passport",
+        "title": "UAE Visa Extraction",
+        "description": "Residency visas, Golden Visas, employment permits, family sponsorships and investor visas in Abu Dhabi & Dubai.",
+        "keywords": "UAE visa extraction Abu Dhabi"
+      },
+      {
+        "slug": "saudi-visa-extraction",
+        "icon": "plane",
+        "title": "Saudi Arabia Visa Services",
+        "description": "Business visit visas, work permits, tourist and family visit authorisations for the Kingdom of Saudi Arabia.",
+        "keywords": "Saudi visa extraction Abu Dhabi"
+      },
+      {
+        "slug": "car-insurance",
+        "icon": "car",
+        "title": "Car Insurance Clearance",
+        "description": "Instant third-party and comprehensive motor insurance transactions linked directly to Abu Dhabi & Dubai traffic portals.",
+        "keywords": "car insurance Abu Dhabi"
+      },
+      {
+        "slug": "daman-health-insurance",
+        "icon": "heart",
+        "title": "Daman Health Insurance",
+        "description": "Abu Dhabi Basic Plan, corporate group medical policies, and health insurance required for visa residency stamping.",
+        "keywords": "Daman health insurance Abu Dhabi"
+      },
+      {
+        "slug": "traffic-violations-clearance",
+        "icon": "scale",
+        "title": "Traffic & Court Clearance",
+        "description": "Fine reductions, black point management, vehicle release and court block removal under Abu Dhabi traffic law.",
+        "keywords": "traffic fine clearance Abu Dhabi"
+      },
+      {
+        "slug": "amer-dubai-services",
+        "icon": "stamp",
+        "title": "Amer Dubai Services",
+        "description": "Entry permits, residency renewals, status amendments, and visa cancellations through official GDRFA Amer channels.",
+        "keywords": "Amer Dubai transaction services"
+      },
+      {
+        "slug": "vip-services",
+        "icon": "crown",
+        "title": "VIP Priority Services",
+        "description": "Dedicated liaison agent, door-to-door document courier, and fast-track government appointments for corporates and executives.",
+        "keywords": "VIP government services UAE"
+      }
+    ],
+    "learnMore": "Learn More"
+  },
+  "whyUs": {
+    "heading": "Why Choose B&M?",
+    "subheading": "A licensed, bilingual, government-registered firm that delivers where others delay.",
+    "items": [
+      { "title": "Government Licensed", "desc": "Registered under Abu Dhabi DED with License CN-3734050." },
+      { "title": "Bilingual Experts", "desc": "Fluent Arabic-English professionals for seamless GCC transactions." },
+      { "title": "Rapid Turnaround", "desc": "Most transactions cleared within 24–72 business hours." },
+      { "title": "Full Transparency", "desc": "Clear fees, official receipts, and verified banking credentials." }
+    ]
+  },
+  "vipBanner": {
+    "badge": "Exclusive Offering",
+    "heading": "Premium VIP Concierge Tier",
+    "body": "For executives and corporates requiring priority processing — B&M's VIP desk handles everything end-to-end with zero administrative friction.",
+    "features": [
+      "Dedicated corporate liaison agent",
+      "Secure door-to-door document courier",
+      "Fast-track medical & biometrics appointments",
+      "Real-time WhatsApp status updates"
+    ],
+    "cta": "Enquire About VIP"
+  },
+  "testimonials": {
+    "heading": "What Our Clients Say",
+    "subheading": "Trusted by corporations and individuals across Abu Dhabi and Dubai.",
+    "items": [
+      {
+        "name": "Ahmed Al Hameli",
+        "role": "Operations Director, Abu Dhabi",
+        "text": "B&M extracted 25 corporate residency visas in record time. Communication in both English and Arabic was exceptional. License credentials were transparent from day one.",
+        "rating": 5
+      },
+      {
+        "name": "Sarah Morris",
+        "role": "HR Lead, Dubai Tech Hub",
+        "text": "We rely on B&M for all our Daman health insurance renewals. Their VIP desk handles everything within hours. Highly professional team.",
+        "rating": 5
+      },
+      {
+        "name": "Mohammed Al Ameri",
+        "role": "Managing Partner, Logistics Group",
+        "text": "Resolving traffic clearances and court filings under Abu Dhabi traffic law is complex. B&M cleared all files transparently. Excellent support.",
+        "rating": 5
+      },
+      {
+        "name": "Fatima Al Zaabi",
+        "role": "Entrepreneur, Abu Dhabi",
+        "text": "The Saudi Arabia business visa was processed in 3 days. Extremely smooth process, very responsive team. Will use B&M for all future transactions.",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Request a Consultation",
+    "subheading": "Get in touch for fast processing estimates or to initiate your transaction file.",
+    "form": {
+      "name": "Full Name / Company",
+      "email": "Email Address",
+      "phone": "Phone / WhatsApp Number",
+      "service": "Service Required",
+      "message": "Transaction Details",
+      "submit": "Submit Request",
+      "sending": "Sending...",
+      "success": "Thank you! We'll be in touch shortly.",
+      "error": "Something went wrong. Please try again."
+    },
+    "info": {
+      "address": "Muroor Road, Area 4, Abu Dhabi, UAE",
+      "phone1": "+971 2 4911227",
+      "phone2": "+971 56 69 55 3 55",
+      "email": "info@brandandmore.ae",
+      "hours": "Mon – Sat: 08:00 – 18:00"
+    },
+    "bank": {
+      "heading": "Banking Credentials",
+      "subheading": "For secure invoice settlements — verified corporate accounts.",
+      "adcb": {
+        "bank": "Abu Dhabi Commercial Bank (ADCB)",
+        "account": "1005-4911-2270-01",
+        "iban": "AE83 ADCB 0000 0010 0549 1122 7001"
+      },
+      "fab": {
+        "bank": "First Abu Dhabi Bank (FAB)",
+        "account": "5022-6955-3550-02",
+        "iban": "AE42 KHAL 0000 0050 2269 5535 5002"
+      }
+    }
+  },
+  "about": {
+    "heading": "About B&M – Brand & More",
+    "subheading": "Your licensed government liaison across Abu Dhabi and Dubai since incorporation.",
+    "body1": "B&M – Brand & More Transaction Following (License CN-3734050) is a government-registered company operating across Abu Dhabi and Dubai. We provide clear, legal, and rapid transactional support to corporate entities and individuals navigating the administrative landscape of the GCC.",
+    "body2": "By maintaining direct connections with government departments — ICP, GDRFA, Abu Dhabi Police, Amer Dubai, DOH/Daman, and the Judicial Department — we reduce bottlenecks and ensure all transactions conclude with full legal integrity.",
+    "license": "Trade License: CN-3734050",
+    "issued": "Issued by: Abu Dhabi Department of Economic Development"
+  },
+  "blog": {
+    "heading": "Insights & Regulation Updates",
+    "subheading": "Stay informed on UAE immigration, traffic law, and government service changes.",
+    "readMore": "Read Article",
+    "posts": [
+      {
+        "slug": "uae-golden-visa-2026",
+        "title": "New UAE Golden Visa Eligibility Guidelines 2026",
+        "excerpt": "A detailed review of the updated salary thresholds, property valuations, and professional category requirements for the 10-year UAE residency.",
+        "category": "Immigration",
+        "date": "June 2026"
+      },
+      {
+        "slug": "abu-dhabi-traffic-fine-reduction",
+        "title": "How to Apply for Abu Dhabi Traffic Fine Reductions",
+        "excerpt": "Step-by-step guide to the official channels for securing fine installment schemes and discounts through the Abu Dhabi Police portal.",
+        "category": "Traffic Law",
+        "date": "May 2026"
+      },
+      {
+        "slug": "saudi-visa-tips-uae-expats",
+        "title": "Saudi Arabia Visit Visa Filing Tips for UAE Expats",
+        "excerpt": "Essential documentation checklist for UAE residents wishing to obtain rapid Saudi business visit passes.",
+        "category": "Trade",
+        "date": "April 2026"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Licensed government transaction clearance for Abu Dhabi & Dubai.",
+    "license": "Trade License CN-3734050",
+    "rights": "All Rights Reserved.",
+    "links": {
+      "services": "Services",
+      "company": "Company",
+      "legal": "Legal"
+    }
+  },
+  "common": {
+    "backToHome": "Back to Home",
+    "allServices": "All Services",
+    "getQuote": "Get a Quote",
+    "callAgent": "Call Agent",
+    "whatsappUs": "WhatsApp Us",
+    "learnMore": "Learn More"
+  }
+}

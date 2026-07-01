@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home Pages -->
+  <url>
+    <loc>https://brandandmore.ae/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://brandandmore.ae/index.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://brandandmore.ae/ar/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://brandandmore.ae/index.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- UAE Visa Extraction -->
+  <url>
+    <loc>https://brandandmore.ae/uae-visa-extraction.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/uae-visa-extraction.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/uae-visa-extraction.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brandandmore.ae/ar/uae-visa-extraction.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/uae-visa-extraction.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/uae-visa-extraction.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Saudi Visa Services -->
+  <url>
+    <loc>https://brandandmore.ae/saudi-visa-services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/saudi-visa-services.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/saudi-visa-services.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brandandmore.ae/ar/saudi-visa-services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/saudi-visa-services.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/saudi-visa-services.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Car Insurance -->
+  <url>
+    <loc>https://brandandmore.ae/car-insurance.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/car-insurance.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/car-insurance.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brandandmore.ae/ar/car-insurance.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/car-insurance.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/car-insurance.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Daman Health Insurance -->
+  <url>
+    <loc>https://brandandmore.ae/daman-health-insurance.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/daman-health-insurance.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/daman-health-insurance.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brandandmore.ae/ar/daman-health-insurance.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/daman-health-insurance.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/daman-health-insurance.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Traffic Clearance -->
+  <url>
+    <loc>https://brandandmore.ae/traffic-violations-clearance.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/traffic-violations-clearance.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/traffic-violations-clearance.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brandandmore.ae/ar/traffic-violations-clearance.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/traffic-violations-clearance.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/traffic-violations-clearance.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Amer Dubai Services -->
+  <url>
+    <loc>https://brandandmore.ae/amer-dubai-services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/amer-dubai-services.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/amer-dubai-services.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brandandmore.ae/ar/amer-dubai-services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/amer-dubai-services.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/amer-dubai-services.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- VIP Services -->
+  <url>
+    <loc>https://brandandmore.ae/vip-services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/vip-services.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/vip-services.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brandandmore.ae/ar/vip-services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/vip-services.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/vip-services.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog Index -->
+  <url>
+    <loc>https://brandandmore.ae/blog.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/blog.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://brandandmore.ae/ar/blog.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brandandmore.ae/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://brandandmore.ae/ar/blog.html"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
